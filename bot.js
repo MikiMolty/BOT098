@@ -2,7 +2,7 @@ const mineflayer = require("mineflayer");
 
 var settings = {
     username: "TestMachine",
-    host: "localhost",
+    host: "ult8.falix.gg:37848",
 };
 
 const bot = mineflayer.createBot(settings);
